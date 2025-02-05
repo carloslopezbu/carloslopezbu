@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos López Bu! 👋
+# Hi there, I'm Carlos López! 👋
 
 I'm a computer engineering student specializing in computation. Currently, I'm diving into the world of web software development (exploring frameworks like **React** and **TailwindCSS**) and deepening my skills in AI, especially with neural networks, computer vision (using **TensorFlow/Keras**), and of course, mathematics.
 
